@@ -35,23 +35,10 @@ PulseBoard предоставляет:
 6. Графики.
 7. Избранное.
 
-## Что НЕ входит в MVP
-
-* брокерские функции;
-* реальные сделки;
-* платежи;
-* социальные функции;
-* мобильное приложение.
-
 ## Технологии (предварительно)
 
-* Frontend: Nuxt 4 + Vue 3 + TypeScript
-* Backend: NestJS
+* Fullstack App: Nuxt 4 + Vue 3 + TypeScript
 * Database: PostgreSQL
-* Cache: Redis
-* Infra: Docker + Nginx
-* Charts: ECharts
-* AI: OpenAI API / совместимый провайдер
 
 ## Цель проекта
 

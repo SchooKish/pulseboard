@@ -1,9 +1,5 @@
 # ADR-0001: Project initialization
 
-## Status
-
-Accepted
-
 ## Context
 
 Начинается публичный pet project PulseBoard.
